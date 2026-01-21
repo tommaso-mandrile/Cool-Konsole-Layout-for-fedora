@@ -1,7 +1,6 @@
 ## To Do before launching Starter.sh 
 Open the terminal in this folder and run Install.sh
 
---- 
 ## To Customize
 ### Open "conf/Layout.json"
 
@@ -38,7 +37,7 @@ Open the terminal in this folder and run Install.sh
     ]
 }
 ```                
-
+---
 > [!NOTE]
 >     I heavely suggest to assign a shortcut (like "Meta+Enter")
 >     to run the Starter.sh program so that you can
