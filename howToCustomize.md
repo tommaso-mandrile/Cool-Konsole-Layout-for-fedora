@@ -1,6 +1,6 @@
 ## HOW TO CUSTOMIZE 
 ### Open "Layout.json"
-``` json
+                
 {
     "Orientation": "Horizontal",
     "Widgets": [
@@ -32,4 +32,4 @@
         }
     ]
 }
-```
+                
