@@ -11,8 +11,10 @@ Open the terminal in this folder and run Install.sh
 > 	  Command or Script --> Choose...
 > 	  Then choose the path that leads to COOLKonsoleStarter.sh and assign a shortcut.
 
+--- 
+
 ## HOW TO CUSTOMIZE 
-### Open "Layout.json"
+### Open "conf/Layout.json"
 
 ``` json
 {
