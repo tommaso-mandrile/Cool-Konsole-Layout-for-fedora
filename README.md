@@ -13,7 +13,7 @@ Open the terminal in this folder and run Install.sh
 
 --- 
 
-## HOW TO CUSTOMIZE 
+## To Customize
 ### Open "conf/Layout.json"
 
 ``` json
