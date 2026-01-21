@@ -8,7 +8,11 @@ Open the terminal in this folder and run installPrograms.sh
 + Update your system
 + Install requested applications (btop, fastfetch,cacafire)
 
-### Notes:
-    I heavely suggest to assign a shortcut (like "Meta+Enter")
-    to run the COOLKonsoleStarter.sh program so that you can
-    open this layout whenever you want.
+
+> [!NOTES]
+>     I heavely suggest to assign a shortcut (like "Meta+Enter")
+>     to run the COOLKonsoleStarter.sh program so that you can
+> 	open this layout whenever you want.
+
+To have white fastfetch like in image:
+	fastfetch --logo-color-1 white --logo-color-2 black --color-keys white --color-title white
