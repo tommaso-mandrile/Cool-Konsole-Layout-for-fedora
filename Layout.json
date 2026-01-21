@@ -2,7 +2,7 @@
     "Orientation": "Horizontal",
     "Widgets": [
         {
-            "Command": "clear",
+            "Command": "clear; fastfetch",
             "SessionRestoreId": 0,
             "WorkingDirectory": "~"
         },
