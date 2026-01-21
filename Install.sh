@@ -1,7 +1,7 @@
 #!/bin/bash
 
-if [ ! -f "./BashCommands/fire.sh" ]; then
-    echo "ERROR: File ./BashCommands/fire.sh not found."
+if [ ! -f "./scripts/fire.sh" ]; then
+    echo "ERROR: File ./scripts/fire.sh not found."
     echo "Please run this script from the project root directory."
     exit 1
 fi
@@ -11,7 +11,7 @@ echo "  TERMINAL DASHBOARD INSTALLER"
 echo "-----------------------------------------------------"
 
 echo "[1/4] Installing fire script to /usr/local/bin/fire_effect..."
-sudo cp ./BashCommands/fire.sh /usr/local/bin/fire_effect
+sudo cp ./scripts/fire.sh /usr/local/bin/fire_effect
 sudo chmod +x /usr/local/bin/fire_effect
 
 echo "[2/4] Installing dependencies (btop, fastfetch, cacafire)..."
