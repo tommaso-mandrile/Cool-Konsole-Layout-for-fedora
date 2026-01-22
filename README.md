@@ -1,4 +1,6 @@
 ![How it looks](Look.gif)
+*Application used: [btop](https://github.com/aristocratos/btop), [fastfetch](https://github.com/fastfetch-cli/fastfetch), [konsole](https://github.com/KDE/konsole), cacafire*
+
 ## To Do before launching Starter.sh 
 Open the terminal in this folder and run Install.sh
 
