@@ -1,4 +1,4 @@
-![How it looks](Look.png)
+![How it looks](Look.gif)
 ## To Do before launching Starter.sh 
 Open the terminal in this folder and run Install.sh
 
